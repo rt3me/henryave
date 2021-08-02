@@ -28,7 +28,7 @@
     "sourcebit": "^0.9.0",
     "sourcebit-source-contentful": "^0.6.7",
     "sourcebit-target-next": "^0.5.2",
-    "sprintf-js": "^1.1.2"
-    tawkto-react
+    "sprintf-js": "^1.1.2",
+    "tawkto-react": ""
   }
 }
