@@ -3,8 +3,7 @@ import _ from 'lodash';
 
 import tawkTo from "tawkto-react";
 
-
-
+export default class PostsSection extends React.Component {
 const tawkToPropertyId = '5bc2274208387933e5bb3791'
 
 // Direct Chat Link
