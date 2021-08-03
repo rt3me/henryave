@@ -5,7 +5,7 @@ import _ from 'lodash';
 import {withPrefix, attribute} from '../utils';
 import Header from './Header';
 import Footer from './Footer';
-import Layout from './Layout';
+import Tawkto from './Tawkto';
 
 export default class Body extends React.Component {
     render() {
