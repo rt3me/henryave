@@ -56,6 +56,7 @@ export default class Body extends React.Component {
                     {this.props.children}
                   </main>
                   <Footer {...this.props} />
+                  
                 </div>
             </React.Fragment>
         );
