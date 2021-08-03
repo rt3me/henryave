@@ -8,7 +8,7 @@ import tawkTo from "tawkto-react";
 
     const tawkToKey = '3e4278d7d0206a2680985105a5ea00ff65212ba6'
 
-    componentDidMount() {
+    componentDidMount(){
         tawkTo(tawkToPropertyId, tawkToKey)
     }
 //}
