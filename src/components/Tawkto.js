@@ -1,3 +1,6 @@
+import React from 'react';
+import _ from 'lodash';
+
 import tawkTo from "tawkto-react";
 
 const tawkToPropertyId = '5bc2274208387933e5bb3791'
