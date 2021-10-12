@@ -2,7 +2,7 @@
 
 <img src="https://themes.stackbit.com/images/agency-demo-1024x768.png" width="600">
 
-This is a [Next.js](https://nextjs.org) site using [Contentful](https://www.contentful.com) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system).
+My personal portfolio site: a [Next.js](https://nextjs.org) site using [Contentful](https://www.contentful.com) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Develop Locally
 
